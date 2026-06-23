@@ -1,11 +1,11 @@
 ## Hi👋 I'm Tari!
 🧩 Data Analyst  
-<sub>🧹 ──> 📊 ──> 💡 Passionate about turning messy, raw data into meaningful insights and decisions.<sub>
+<sub> Passionate about turning messy, raw data into meaningful insights and decisions.<sub>
 ---
 ## 🔭 What I'm currently working on:
 - 🎓 **Master's Thesis** — Climate change & water budget analysis using an ensemble of numerical simulations, applying ML algorithms to forecast environmental variables and estimate model uncertainty.
 
-## 👀 What I'm interested in
+## 👀 What I'm interested in:
 - Data Analysis & Business Intelligence
 - Machine Learning & Predictive Modeling
 - Building dashboards that drive real decisions
