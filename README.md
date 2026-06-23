@@ -4,6 +4,9 @@
 
 🧹 ──> 📊 ──> 💡 Passionate about turning messy, raw data into meaningful insights and decisions.
 
+## 🔭 What I'm currently working on:
+- 🎓 **Master's Thesis** — Climate change & water budget analysis using an ensemble of numerical simulations, applying ML algorithms to forecast environmental variables and estimate model uncertainty
+
 ## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
