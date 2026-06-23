@@ -1,6 +1,6 @@
 ## Hi👋I'm Tari!
 
-🎯 **Data Analyst** | passionate about turning messy, raw data into meaningful insights and decisions.
+🧩 **Data Analyst** | passionate about turning messy, raw data into meaningful insights and decisions.
 ## 💻 Tech Stack
 
 **Data & Analytics**
