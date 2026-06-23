@@ -8,8 +8,10 @@
 ## 👀 What I'm interested in
 - Data Analysis & Business Intelligence
 - Machine Learning & Predictive Modeling
-- Environmental Data Science
 - Building dashboards that drive real decisions
+
+## 💞️ Looking to collaborate on
+Data-driven projects in **exploratory data analysis**, **predictive modeling** or **environmental data science**. Open to entry-level / junior **Data Analyst roles**
 
 ## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat&logo=microsoft-sql-server&logoColor=white)
