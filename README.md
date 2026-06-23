@@ -1,9 +1,5 @@
 ## Hi👋I'm Tari!
 
-<!--
-**TaherehHatami/TaherehHatami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 🎯 **Data Analyst** | passionate about turning messy, raw data into meaningful insights and decisions.
 
 - 🔭 I’m currently working on ...
@@ -14,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
