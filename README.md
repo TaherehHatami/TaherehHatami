@@ -1,7 +1,7 @@
 ## Hi👋I'm Tari!
 
 🎯 **Data Analyst** | passionate about turning messy, raw data into meaningful insights and decisions.
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Data & Analytics**
 `SQL (MS SQL Server)` · `Python` · `R` · `Power BI` · `Tableau` · `Report Builder`
