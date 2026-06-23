@@ -10,8 +10,6 @@
 - Machine Learning & Predictive Modeling
 - Building dashboards that drive real decisions
 
-## 💞️ Looking to collaborate on
-Data-driven projects in **exploratory data analysis**, **predictive modeling** or **environmental data science**. Open to entry-level / junior **Data Analyst roles**
 
 ## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -19,6 +17,11 @@ Data-driven projects in **exploratory data analysis**, **predictive modeling** o
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+
+## 💞️ Looking to collaborate on:
+Data-driven projects in **exploratory data analysis**, **predictive modeling** or **environmental data science**. Open to entry-level / junior **Data Analyst roles**
+
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tahereh-hatami)
