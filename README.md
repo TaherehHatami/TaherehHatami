@@ -1,11 +1,11 @@
 ## Hi👋I'm Tari!
 
 🧩 **Data Analyst** 
-🧹 ──> 📊 ──> 💡| passionate about turning messy, raw data into meaningful insights and decisions.
-## 💻 Tech Stack
+**🧹 ──> 📊 ──> 💡| passionate about turning messy, raw data into meaningful insights and decisions.**
 
-**Data & Analytics**
+## 💻 Tech Stack:
 `SQL` · `Python` · `R` · `Power BI` · `Tableau` 
+
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahereh--hatami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tahereh-hatami)
