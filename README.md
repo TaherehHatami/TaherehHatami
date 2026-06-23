@@ -5,7 +5,7 @@
 ## 💻 Tech Stack
 
 **Data & Analytics**
-`SQL (MS SQL Server)` · `Python` · `R` · `Power BI` · `Tableau` · `Report Builder`
+`SQL` · `Python` · `R` · `Power BI` · `Tableau` 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahereh--hatami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tahereh-hatami)
