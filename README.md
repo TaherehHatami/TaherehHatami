@@ -6,7 +6,7 @@
 ## 💻 Tech Stack:
 `SQL` · `Python` · `R` · `Power BI` · `Tableau` 
 
-## 📫 How to reach me
+## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tahereh--hatami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tahereh-hatami)
 [![Email](https://img.shields.io/badge/Email-t7.hattamii%40gmail.com-red?style=flat&logo=gmail)](mailto:t7.hattamii@gmail.com)
