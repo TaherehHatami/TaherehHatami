@@ -1,6 +1,6 @@
 ## Hi👋I'm Tari!
 
-# 🧩 Data Analyst 
+<h1 style="border-bottom: none; margin-bottom: 0;">🧩 Data Analyst</h1>
 
 <sub>🧹 ──> 📊 ──> 💡 Passionate about turning messy, raw data into meaningful insights and decisions.</sub>
 ---
