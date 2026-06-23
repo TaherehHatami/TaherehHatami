@@ -1,7 +1,10 @@
 ## Hi👋I'm Tari!
 
 🧩 **Data Analyst** 
-**🧹 ──> 📊 ──> 💡| passionate about turning messy, raw data into meaningful insights and decisions.**
+
+🧹 ──> 📊 ──> 💡
+
+> Passionate about turning messy, raw data into meaningful insights and decisions.
 
 ## 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-003B5C?style=flat&logo=microsoft-sql-server&logoColor=white)
