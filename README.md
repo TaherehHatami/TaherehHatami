@@ -2,8 +2,8 @@
 
 ### 🧩 **Data Analyst**   
 Passionate about turning messy, raw data into meaningful insights and decisions.
-### 🔭 What I'm currently working on:
-- 🎓 **Master's Thesis** — Climate change & water budget analysis using an ensemble of numerical simulations, applying ML algorithms to forecast environmental variables and estimate model uncertainty.
+  ### 🎓 What I'm currently working on:
+  -  **Master's Thesis** — Climate change & water budget analysis using an ensemble of numerical simulations, applying ML algorithms to forecast environmental variables and estimate model uncertainty.
 
 ### 👀 What I'm interested in:
 - Data Analysis & Business Intelligence
@@ -19,7 +19,7 @@ Passionate about turning messy, raw data into meaningful insights and decisions.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
-### 💞️ Looking to collaborate on:
+### 🤝 Looking to collaborate on:
 Data-driven projects in **exploratory data analysis**, **predictive modeling** or **environmental data science**. Open to entry-level / junior **Data Analyst roles**
 
 ### 📫 How to reach me:
